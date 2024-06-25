@@ -1,4 +1,3 @@
-// test/simpleAccountingSystem.test.mjs
 import assert from "assert";
 import test from "node:test";
 import { processTransactions } from "./index.js";
