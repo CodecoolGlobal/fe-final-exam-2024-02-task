@@ -26,6 +26,13 @@
    - Display the furniture items in a list.
    - Implement search fields to filter the furniture list by weight and price.
 
+#### Element IDs (for testing)
+
+1. List of rooms: **rooms**
+2. Search by weight input: **weight**
+3. Search by price: **price**
+4. Furnitures table: **furnitures**
+
 #### API Documentation
 
 ##### Rooms API
